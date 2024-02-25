@@ -1,0 +1,1 @@
+Currently working on a first website project. So far i have learned HTML basics, and by the time i finish i expect to learn to create a whole website.
